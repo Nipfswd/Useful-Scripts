@@ -2,7 +2,8 @@
 # author: Noah Juopperi <noahjuopperi.contact@gmail.com>
 
 echo "-------------------------------------------------------"
-echo " Wassup, I create files for you when you're lazy."
+echo "              File Creator (v0.2)                      "
+echo " Wassup, I create files for you when you're lazy.      "
 echo " I may not be the most advanced but my creator is good."
 echo "-------------------------------------------------------"
 echo
@@ -15,8 +16,7 @@ echo
 
 # ask for the content
 echo "Now, let's put something inside your file."
-read -p "Type the first line of text: " filecon
-
+echo "Type as many lines as you want"
 # i ran out of comments
 echo "$filecon" > "$filename"
 
