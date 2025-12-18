@@ -11,3 +11,10 @@ Right now it's in early stages.
 - Nothing, this was the first release
 
 ## EOF
+
+## [0.2.0] - 2025-12-18
+### Added
+- Multi-line file content writer
+- Empty filename guard
+- Overwrite warning
+- Custom "END" marker
